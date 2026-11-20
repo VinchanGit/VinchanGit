@@ -2,7 +2,7 @@
 
 # VINCHAN
 
-### 后端为主，也写一点前端；没事就研究点有趣的东西。
+### 没事就研究点有趣的东西~
 
 <p>
   <a href="https://github.com/VinchanGit"><img src="https://img.shields.io/badge/GitHub-VinchanGit-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
